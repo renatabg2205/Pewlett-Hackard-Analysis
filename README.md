@@ -14,7 +14,7 @@ The purpose of this analysis is to identify all the titles of current employees 
 
 Below is the breakdown by title:
 
-![retiring_titles.PNG](../Images/retiring_titles.PNG)
+![retiring_titles.PNG](Images/retiring_titles.PNG)
 
 
 ### Employees Eligible for the Mentorship Program
@@ -26,7 +26,7 @@ The purpose of this analysis is to identify the current employees who were born 
 
 Below is the breakdown by title:
 
-![mentorship_titles.PNG](../Images/mentorship_titles.PNG)
+![mentorship_titles.PNG](Images/mentorship_titles.PNG)
 
 ## Summary: !!!!!!!!!!!!Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
@@ -35,9 +35,9 @@ Are there enough qualified, retirement-ready employees in the departments to men
 The company needs to be prepared to fill the vacancies of 90,398 employees in 7 different roles. 
 
 Retiring Departments:
-![retiring_titles.PNG](../Images/retiring_depts.PNG)
+![retiring_titles.PNG](Images/retiring_depts.PNG)
 
 Mentorship Departments:
-![mentorship_depts.PNG](../Images/mentorship_depts.PNG)
+![mentorship_depts.PNG](Images/mentorship_depts.PNG)
 
 
