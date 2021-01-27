@@ -1,9 +1,12 @@
 # Pewlett-Hackard-Analysis
 
+
 ## Overview of the analysis
 The purpose of this analysis is to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program.
 
+
 ## Results:
+
 
 ### Number of Retiring Employees by Title
 
@@ -17,6 +20,7 @@ Below is the breakdown by title:
 ![retiring_titles.PNG](Images/retiring_titles.PNG)
 
 
+
 ### Employees Eligible for the Mentorship Program
 
 The purpose of this analysis is to determine employee eligibility for a mentorship program, by identify the current employees who were born between January 1, 1965 and December 31, 1965.
@@ -27,6 +31,7 @@ The purpose of this analysis is to determine employee eligibility for a mentorsh
 Below is the breakdown by title:
 
 ![mentorship_titles.PNG](Images/mentorship_titles.PNG)
+
 
 ## Summary:
 
@@ -39,5 +44,3 @@ Retiring Departments:
 Mentorship Departments:
 
 ![mentorship_depts.PNG](Images/mentorship_depts.PNG)
-
-
