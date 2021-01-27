@@ -20,7 +20,6 @@ Below is the breakdown by title:
 ![retiring_titles.PNG](Images/retiring_titles.PNG)
 
 
-
 ### Employees Eligible for the Mentorship Program
 
 The purpose of this analysis is to determine employee eligibility for a mentorship program, by identify the current employees who were born between January 1, 1965 and December 31, 1965.
@@ -28,7 +27,7 @@ The purpose of this analysis is to determine employee eligibility for a mentorsh
 - 1,549 employees (0.5% of the entire workforce) were born between January 1, 1965 and December 31, 1965 and are eligible for participating in the mentorship program.
 - The majority of the mentorship-eligible employees are in senior positions like the ones that are needed to fulfill the employees that are going to retire.
 
-Below is the breakdown by title:-
+Below is the breakdown by title:
 
 ![mentorship_titles.PNG](Images/mentorship_titles.PNG)
 
