@@ -3,7 +3,7 @@
 ## Overview of the analysis
 The purpose of this analysis is to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program.
 
-## Results: !!!!!!!!!!!!Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.!!!!!!!!!!!!!
+## Results:
 
 ### Number of Retiring Employees by Title
 
@@ -28,16 +28,16 @@ Below is the breakdown by title:
 
 ![mentorship_titles.PNG](Images/mentorship_titles.PNG)
 
-## Summary: !!!!!!!!!!!!Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?!!!!!!!!!!!!
+## Summary:
 
-The company needs to be prepared to fill the vacancies of 90,398 employees in 7 different roles. 
+The company needs to be prepared to fill the vacancies of 90,398 employees in 7 different roles spread across 9 departments. The retirement-ready employees can mentor the current employees that are elegible for mentorship, but the company will also need to hire additional employees to fulfill its workforce.
 
 Retiring Departments:
+
 ![retiring_titles.PNG](Images/retiring_depts.PNG)
 
 Mentorship Departments:
+
 ![mentorship_depts.PNG](Images/mentorship_depts.PNG)
 
 
